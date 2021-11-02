@@ -1,0 +1,15 @@
+62dfb0f0357d6d79bc91d0bace0adb99 *DESCRIPTION
+6b0395ebcc12fc4c83ef9d4542d39a7c *LICENSE
+ea3e9f862dc16010ccf7a2ce87bd77a8 *NAMESPACE
+441289dc0a30e0e6cc4bb4ad95f3f630 *NEWS.md
+2d040bbaa5626ca3617543cd004ce4e7 *R/caseID_m_q_c_vector_from_NI_M_Q_C.R
+78d4cf7a0f8cc4425676d4a36469eaa1 *R/convertFromJafroc.R
+6fe72853b6e2a76d7b304f44f6a36cd0 *build/vignette.rds
+0c05ad6cf5a6ae22b9a274f39cec051c *inst/doc/Usage.R
+70869f9ee481275cc3567d92afd3bfcf *inst/doc/Usage.Rmd
+e3f738dc18e4e8cf3d803312a6f94762 *inst/doc/Usage.html
+cba97a99c33a95a790021ff21420fa4c *inst/extdata/JAFROC_data.xlsx
+4c8d607e1f47709eedadb7a0622792e6 *man/caseID_m_q_c_vector_from_NI_M_Q_C.Rd
+47063bf0ebc4b3c1274ad773c15674d5 *man/convertFromJafroc.Rd
+b2799cedee81ac2ff791850e75b22228 *man/convertFromJafrocCasewise.Rd
+70869f9ee481275cc3567d92afd3bfcf *vignettes/Usage.Rmd
